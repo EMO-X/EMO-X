@@ -1,11 +1,9 @@
 
+<img src="https://media.giphy.com/media/C3gZCY92Cwyxq/giphy.gif?cid=ecf05e4763wk9ar5g16d2emm1totujffuteg0qlt2nhyy0jc&ep=v1_gifs_related&rid=giphy.gif&ct=g" style="width: 100%; height: 300px;" />
 
-![Minecraft](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazA2OWE2c2JubWF6ejdrOXd2MzVmNm8wd2d6ZHFyMWlvczNiaXFjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/6OvvymkOLzzMkxUc25/giphy.gif)
-
-- 👋 Hi, I’m @EMOVOX
-- 👀 I’m interested in GNU/Linux and programming.
-- 🌱 I’m currently learning C after learning Python.
-- 💞️ I’m looking to collaborate on open-source projects and contribute to the GNU/Linux community.
-- 📫 How to reach me: yahyaechcharqui@proton.me
-- 😄 Pronouns: he
-- ⚡ Fun fact: I love exploring new software and optimizing my workflow
+- 👋 Hi, I’m **@EMO-X**
+- 👀 I live in the world of **GNU/Linux**, where freedom rules!
+- 🌱 ! I speak fluent **C** and **Python**, like a coding wizard 
+- How to reach me: Just send a signal through theterminal, or better yet, drop a message on 
+**[ yahyaechcharqui@proton.me ]**
+- ⚡ Fun fact:I talk to my code... and sometimes, it talks back!

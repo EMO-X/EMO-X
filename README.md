@@ -1,4 +1,6 @@
-![something](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXY4Zm55b2Q1dHM4M2UzaWVjcTlqZWo4YmhobTI1dnRmbmhwbmg0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/UupjmGwLilzlsiLDuH/giphy.gif)
+
+
+![something](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQ2dWZ1MXFuOXY4MGI0NTZ5OWthcG10cTNsN2NnbHowN3FtM3BvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/k7rvJoAgijk9qxyCKy/giphy.gif)
 
 - 👋 Hi, I’m @EMOVOX
 - 👀 I’m interested in GNU/Linux and programming.

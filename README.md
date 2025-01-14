@@ -1,6 +1,6 @@
 
 
-![Minecraft](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTQ2dWZ1MXFuOXY4MGI0NTZ5OWthcG10cTNsN2NnbHowN3FtM3BvNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/k7rvJoAgijk9qxyCKy/giphy.gif)  ![GNU/Linux](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRqOXl4MzdwNTJnaTZ3N3hlZTRvaG9zdXc2dGt0dnBsd3gxbWUycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/46hMzlIbVpWPJAWdUY/giphy.gif)
+![Minecraft](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazA2OWE2c2JubWF6ejdrOXd2MzVmNm8wd2d6ZHFyMWlvczNiaXFjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/6OvvymkOLzzMkxUc25/giphy.gif)
 
 - 👋 Hi, I’m @EMOVOX
 - 👀 I’m interested in GNU/Linux and programming.
